@@ -1,5 +1,5 @@
 # <p align="center"> INTEGRAÇÃO DE SEMÁFOROS INTELIGENTES 🚦</p> <p align="center">2º SEMESTRE LOG - 2024 </p><p align="center">API</p>
-# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03090C&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Sejam+bem+vindos.;%C3%89+um+prazer+t%C3%AA-los+aqui!)](https://git.io/typing-svg)
+
 
 # 🔎 Índice
 * [Equipe](#equipe)
