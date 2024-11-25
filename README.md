@@ -58,9 +58,9 @@ Sprint | Previsão | Status| Histórico|
 - [x] Documentação sobre conceitos;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Início no mapeamento de dados;
-- [ ] Análise de dados;
-- [ ] Pesquisa Análitica;
+- [x] Início no mapeamento de dados;
+- [x] Análise de dados;
+- [x] Pesquisa Análitica;
 
 ## Sprint 3. Implementação 
 - [ ] Dashboard de custos;
