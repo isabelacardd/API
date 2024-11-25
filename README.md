@@ -63,9 +63,9 @@ Sprint | Previsão | Status| Histórico|
 - [x] Pesquisa Análitica;
 
 ## Sprint 3. Implementação 
-- [ ] Dashboard de custos;
 - [ ] Monitoramento de trânsito;
-- [ ] Entrega relatório final;
+- [ ] Pesquisa empresa real de tecnologia;
+- [ ] Análise Redução de Custos;
       
 ## Sprint 4. Operacionalização
 - [ ] Conclusão do Dashboard;
