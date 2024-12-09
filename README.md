@@ -1,10 +1,19 @@
 # <p align="center"> INTEGRAÇÃO DE SEMÁFOROS INTELIGENTES 🚦</p> <p align="center">2º SEMESTRE LOG - 2024 </p><p align="center">API</p>
 
 
-# 🔎 Índice
-* [Equipe](#equipe)
-* [Sprints](#Sprints)
-* [Backlog do produto](#Backlog-do-produto)
+# Projeto
+
+ Sejam muito bem-vindos a Smart Flow. Uma empresa que se compõem de soluções estratégicas para a melhoria do fluxo de trânsito, com a sicronização de um sistema de semáforos inteligentes, nada mais que a tão desejada Onda Verde. Aqui, propomos soluções que serão relevantes no presente, e o futuro. 
+
+> Logo
+
+![SMART FLOW (2) (1)](https://github.com/user-attachments/assets/9f322ab7-8709-47aa-ab75-9995951a396e)
+
+ 
+> Organograma
+
+![FEIRA DE SOLUÇÕES](https://github.com/user-attachments/assets/179cf408-0f99-4ee9-8dfc-f5ce00ba6513)
+
 
 
 
