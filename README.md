@@ -61,7 +61,6 @@ Sprint | Previsão | Status| Histórico|
   
 # 📋 Backlog do Produto
 
->Backlog do Produto
 
 ![FEIRA DE SOLUÇÕES](https://github.com/user-attachments/assets/b67e0c9a-281b-4d0e-a1b2-1118330ea647)
 
